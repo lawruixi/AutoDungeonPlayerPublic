@@ -1,0 +1,19 @@
+"#Indicate if it is a testcase here by putting ""Testcase""",AI Movement Points,Ai Hit points,AI melee attack damage,Ai movement speed,Player movement points,player hit points,player melee attack dmg,player ranged attack dmg,player minimum distance for ranged attack,player maximum range for ranged attack,player movement speed,map size,wall chance,number of enemies,Number of times to run,output file name
+3Testcase,1,20,10,50,2,100,10,10,1,3,10,5,0.33,1,50,swarm_offensive_test_enemy_count_1.txt
+3Testcase,1,20,10,50,2,100,10,10,1,3,10,5,0.33,2,50,swarm_offensive_test_enemy_count_2.txt
+3Testcase,1,20,10,50,2,100,10,10,1,3,10,5,0.33,3,50,swarm_offensive_test_enemy_count_3.txt
+3Testcase,1,20,10,50,2,100,10,10,1,3,10,5,0.33,4,50,swarm_offensive_test_enemy_count_4.txt
+3Testcase,1,20,10,50,2,100,10,10,1,3,10,5,0.33,5,50,swarm_offensive_test_enemy_count_5.txt
+3Testcase,1,20,10,50,2,100,10,10,1,3,10,5,0.33,6,50,swarm_offensive_test_enemy_count_6.txt
+3Testcase,1,30,5,50,2,100,10,10,1,3,10,5,0.33,1,50,swarm_defensive_test_enemy_count_1.txt
+3Testcase,1,30,5,50,2,100,10,10,1,3,10,5,0.33,2,50,swarm_defensive_test_enemy_count_2.txt
+3Testcase,1,30,5,50,2,100,10,10,1,3,10,5,0.33,3,50,swarm_defensive_test_enemy_count_3.txt
+3Testcase,1,30,5,50,2,100,10,10,1,3,10,5,0.33,4,50,swarm_defensive_test_enemy_count_4.txt
+3Testcase,1,30,5,50,2,100,10,10,1,3,10,5,0.33,5,50,swarm_defensive_test_enemy_count_5.txt
+3Testcase,1,30,5,50,2,100,10,10,1,3,10,5,0.33,6,50,swarm_defensive_test_enemy_count_6.txt
+Testcase,1,30,5,50,2,100,10,10,1,3,10,5,0.33,1,50,swarm_more_defensive_test_enemy_count_1.txt
+Testcase,1,40,5,50,2,100,10,10,1,3,10,5,0.33,2,50,swarm_more_defensive_test_enemy_count_2.txt
+Testcase,1,40,5,50,2,100,10,10,1,3,10,5,0.33,3,50,swarm_more_defensive_test_enemy_count_3.txt
+Testcase,1,40,5,50,2,100,10,10,1,3,10,5,0.33,4,50,swarm_more_defensive_test_enemy_count_4.txt
+Testcase,1,40,5,50,2,100,10,10,1,3,10,5,0.33,5,50,swarm_more_defensive_test_enemy_count_5.txt
+Testcase,1,40,5,50,2,100,10,10,1,3,10,5,0.33,6,50,swarm_more_defensive_test_enemy_count_6.txt
