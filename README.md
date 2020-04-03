@@ -1,2 +1,3 @@
-# AutoDungeonPlayerPublic
-Public version of AutoDungeonPlayer
+# AutoDungeonPlayer
+
+## TODO: Everything

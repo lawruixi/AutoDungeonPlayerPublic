@@ -1,0 +1,34 @@
+USAGE INSTRUCTIONS
+
+HERE ARE THE FUNCTIONS YOU CAN USE AS A PLAYER
+
+
+char.block()
+char.attack(direction,mapp)
+char.move(direction,mapp)
+
+
+
+HERE ARE THE FUNCTIONS YOU CAN USE FOR THE MAP
+
+     set_preset(self,text_map):
+
+     is_passable(self,position):
+
+     swap(self,original_position,new_position) # but why
+
+     check_is_in_map(self,position):
+
+     update_GUI_map(self)
+
+     replace_object(self,position,new_thing) 
+
+GETTERS
+
+     get_position(self,position):
+    
+     get_characters(self):
+	
+     get_GUI_map(self):
+
+     get_object_map(self):
