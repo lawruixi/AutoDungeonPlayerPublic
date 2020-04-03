@@ -18,6 +18,12 @@ python3 game.py
 ## The Smart <sup>TM</sup> AI Algorithm
 The Smart AI uses a version of the [Monte Carlo Tree Search](en.wikipedia.org/wiki/Monte_Carlo_tree_search) to decide the best move at any given turn. You may inspect the code by viewing the file `mcts.py`.
 
+## Future Work
+* Updating AI to be more "smart"
+* Possibly making a testcase input generator, given how annoying it is to input test cases.
+* Possibly a UI or a nicer way other than ASCII art to display the game.
+* Maybe have AI vs Player? (We can dream)
+
 ## Built With
 love and care <​3
 
