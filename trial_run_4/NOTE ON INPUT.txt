@@ -1,0 +1,4 @@
+Thinking time has to be changed manually.
+It can be found in the mcts.py, at the top of the file.
+
+Max depth was left unaltered, at 10.
